@@ -33,3 +33,5 @@ This contract is a strong foundation. The project can be expanded in several way
 * CONTRACT ADDRESS:0x58e06f475F76F565D4730E47A5F354BB6e7B09F7
 
 * file:///Users/harshitlodhi/Desktop/Screenshot%202025-10-30%20at%2010.49.40%E2%80%AFPM.png
+* <img width="1680" height="1050" alt="Screenshot 2025-10-30 at 10 49 40 PM" src="https://github.com/user-attachments/assets/15393344-676f-4122-b9d4-75d54ee63877" />
+
