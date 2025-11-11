@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Secrets & environment variables
+.env
+
+# Build artifacts
+/build
+/cache
+
+# Log files
+*.log
