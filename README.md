@@ -93,6 +93,13 @@ Here is the contract successfully deployed and verified on the Core Testnet:
 * 🆔 **Decentralized ID (DID) Integration:** Link tickets to a user's decentralized identity for enhanced security and personalization.
 
 ---
+Feature,Description,How It Is Helpful
+🛡️ Fraud-Proof,Each ticket is a unique NFT (likely ERC-721) that cannot be duplicated or counterfeited.,"Fans & Organizers: Eliminates the risk of buying or accepting fake tickets, ensuring only legitimate attendees enter the venue."
+🧾 Verifiable Ownership,"A public, on-chain ledger proves who owns a ticket at any given moment.","Fans: Instantly proves their right to entry. Venue Staff: Allows for quick, definitive verification against the single source of truth (the smart contract)."
+🔄 Controlled & Traceable Transfers,"Securely transfer or resell tickets. The entire history is recorded, helping to mitigate scalping.","Organizers: Provides transparency into the secondary market. Fans: Offers a safe, secure, and authenticated way to sell a ticket if plans change."
+🔐 Admin-Controlled Minting,"Only the Event Organizer (admin) can create and issue new, authentic tickets for an event.","Organizers: Gives them complete control over the total supply and initial distribution, preventing unauthorized tickets from entering the market."
+✅ One-Time Verification,"Tickets are ""redeemed"" upon use, preventing a single ticket from being used by multiple people.",Venue Staff: Stops ticket sharing or the re-use of printed/digital copies after initial entry.
+🌐 Decentralized & Transparent,No single intermediary controls the ticketing process. All rules are enforced by the smart contract.,"All Users: Increases trust and reduces reliance on a central company, making the rules fair and auditable by everyone."
 
 ## 🧠 Learning Outcomes
 
